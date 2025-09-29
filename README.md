@@ -5,6 +5,7 @@ This project analyzes a year’s worth of sales data from a fictitious pizza pla
 The dataset includes order details, pizza information, prices, sizes, and ingredients.
 The goal of this project is to practice data analysis with Python using pandas, numpy, and matplotlib, while answering business-related questions.
 
+
 📂 Dataset Description
 
 The dataset is made up of 4 CSV files:
